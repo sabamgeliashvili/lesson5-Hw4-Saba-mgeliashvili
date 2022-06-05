@@ -1,0 +1,27 @@
+/*section1*/
+.leftblock{width:360px; background-color: #FFFFFF; display: inline-block; height: 352px; }
+.wholebox{width: 1160px; margin: 0 auto; background-color: #F6F8F9; margin-top: 25px; height: 440px;}
+.textbox{width: 240px; display: inline-block; text-align:center; vertical-align: top; margin-top: 40px; margin-left: 50px;}
+.middleblock{display: inline-block; background-color: #FFFFFF; width: 360px; height: 352px; margin-left: 40px; margin-right: 40px;}
+.rightblock{display: inline-block; background-color: #FFFFFF; width: 360px; height: 352px;}
+.title1{font-family: 'Anton'; margin-bottom: 40px;}
+.navsistem{display: inline-block;}
+.nav1{display: inline-block; margin-left: 25px;}
+.nav2{display: inline-block; margin-left: 25px;}
+.nav3{display: inline-block; margin-left: 25px;}
+.nav4{display: inline-block; margin-left: 25px; margin-right: 40px;}
+.splash{margin-top: 11px; vertical-align: middle;}
+.logo{vertical-align: middle; margin-left: 20px;}
+.paragraph{font-family: 'Pacifico';}
+
+/*section2*/
+.wholebox2{width: 1222px; margin: 0 auto; background-color: #F6F8F9; margin-top: 58px; height: 966px;}
+.image4{width: 760px; height: 389px;}
+.image5{width: 760px; height: 389px; margin-top: 40px;}
+.image6{width: 360px; height: 212px; }
+.image7{width: 360px; height: 212px;}
+.title2{margin-bottom: 40px;  font-family: 'Anton';}
+.imagebox1{width: 760px; display: inline-block; }
+.imagebox2{width: 398px; display: inline-block; vertical-align: top; margin-left: 40px;}
+.wholewholebox{background-color:#F6F8F9;}
+
